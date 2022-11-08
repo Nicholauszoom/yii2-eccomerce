@@ -441,9 +441,9 @@ AppAsset::register($this);
             <!-- Begin Page Content -->
 
             <!-- /.container-fluid -->
-             <div class="p-4">
-                 <?php echo $content ?>
-             </div>
+           <div class="p-4">
+               <?php echo $content ?>
+           </div>
 
         </div>
         <!-- End of Main Content -->
